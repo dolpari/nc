@@ -1,5 +1,5 @@
 # 
-ubunt linux 20.04ver nc downlode 
+ubunt linux 20.04ver nc Download
 
 ① xinetd 설치 및 nc 설치 
 
